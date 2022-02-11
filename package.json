@@ -1,0 +1,23 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:nation": "sass src/component/nation/nation.scss src/component/nation/nation.css -w",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dat-truong196nt/Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dat-truong196nt/Assignments/issues"
+  },
+  "homepage": "https://github.com/dat-truong196nt/Assignments#readme",
+  "devDependencies": {
+    "sass": "^1.49.7"
+  }
+}
